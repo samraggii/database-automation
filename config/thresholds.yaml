@@ -1,0 +1,12 @@
+
+
+tablespace_pct_used_warn: 75
+tablespace_pct_used_crit: 90
+avg_sql_elapsed_ms_warn: 50
+avg_sql_elapsed_ms_crit: 200
+active_sessions_warn: 10
+active_sessions_crit: 25
+cpu_pct_warn: 70
+cpu_pct_crit: 90
+memory_pct_warn: 70
+memory_pct_crit: 90

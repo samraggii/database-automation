@@ -1,0 +1,5 @@
+metric,value
+alerts_count,3
+alert,CRIT: Tablespace usage 98.01%
+alert,CRIT: Active sessions 68
+alert,CRIT: Avg top SQL elapsed 13770 ms
